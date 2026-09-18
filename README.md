@@ -1,5 +1,4 @@
 # PERSONAL-FINANCIAL-HEALTH-DASHBOARD
-# Personal Financial Health Score Dashboard
 
 An Excel-based automation tool that turns raw bank transaction data into a single, defensible **Financial Health Score (0–100)** — built with Power Query, VBA, and a custom-designed scoring model.
 
