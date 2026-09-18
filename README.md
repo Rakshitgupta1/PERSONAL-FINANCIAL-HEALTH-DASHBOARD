@@ -3,8 +3,6 @@
 
 An Excel-based automation tool that turns raw bank transaction data into a single, defensible **Financial Health Score (0–100)** — built with Power Query, VBA, and a custom-designed scoring model.
 
-![Dashboard Screenshot](screenshots/dashboard.png)
-
 ## The Problem
 
 Most people can see *how much* they spent in a month, but not whether that spending pattern is actually healthy. A single ratio (like savings rate) doesn't capture the full picture — someone could be saving well but carrying dangerous debt, or have a comfortable income but no emergency cushion at all.
