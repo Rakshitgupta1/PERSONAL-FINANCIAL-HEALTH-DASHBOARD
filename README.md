@@ -48,13 +48,6 @@ Three one-click macros handle the full workflow:
 - **VBA** — workflow automation (refresh, import, export)
 - **PivotTables & Charts** — dashboard visualization
 
-## Try It Yourself
-
-1. Clone this repo
-2. Open `Financial_Health_Dashboard.xlsm` (enable macros and content when prompted)
-3. Sample statement data is already loaded in `/Statements` — click **Refresh Data** to see it flow through the pipeline
-4. Try **Import New Statement** with the extra sample file in `/sample-data/` to see a new month get categorized and scored automatically
-
 > Note: all data in this repo is synthetic/dummy data generated for demonstration purposes — no real financial information is included.
 
 ## Why This Approach
@@ -63,4 +56,4 @@ Most personal finance templates apply someone else's pre-built ratios. This proj
 
 ## Author
 
-Built by [Your Name] — Economics Honours student, CFA Level 1 / FRM Part 1 candidate.
+Built by [RAKSHIT GUPTA] — Economics Honours student
